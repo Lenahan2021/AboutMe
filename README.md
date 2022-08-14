@@ -46,3 +46,12 @@ _You will face many defeats in life, but never let yourself be defeated._
 <kbd>
 <img src="https://github.com/Lenahan2021/AboutMe/blob/main/img/tennis%20ball.jpg" height="100px" width="100px">
 </kbd>
+
+## CS Terms
+
+| Terms |
+|-|  
+|CPU|
+|Algorithm|
+|API|
+|RAM|
