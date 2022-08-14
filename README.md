@@ -42,6 +42,7 @@ _You will face many defeats in life, but never let yourself be defeated._
 [I'm being tagged][I have a new home]
 
 ## Persons of Interest
-[Bill Gates][1]
+[Bil Gates][1]
+<kbd>
 <img src="https://github.com/Lenahan2021/AboutMe/blob/main/img/tennis%20ball.jpg" height="100px" width="100px">
-
+</kbd>
