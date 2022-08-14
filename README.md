@@ -49,9 +49,9 @@ _You will face many defeats in life, but never let yourself be defeated._
 
 ## CS Terms
 
-| Terms | Definitions |
-|:-| :----: |
-|CPU| electronic circuitry that executes instructions comprising a computer program |
-|Algorithm| a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.|
-|API| a set of functions and procedures allowing the creation of applications that access the features or data of an operating system, application, or other service. |
-|RAM| form of computer memory that can be read and changed in any order, typically used to store working data and machine code. |
+| Terms | Definitions | My Meaning
+|:-| :----: | ----:|
+|CPU| electronic circuitry that executes instructions comprising a computer program | The brains of the Computer |
+|Algorithm| a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.| A set of instructions| 
+|API| a set of functions and procedures allowing the creation of applications that access the features or data of an operating system, application, or other service. | Can assist you in using other people products for your own use |
+|RAM| form of computer memory that can be read and changed in any order, typically used to store working data and machine code. | Is used in conjuction with the CPU | 
