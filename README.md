@@ -49,8 +49,8 @@ _You will face many defeats in life, but never let yourself be defeated._
 
 ## CS Terms
 
-| Terms |
-|-|  
+| Terms | Definitions |
+|:-| ---- |
 |CPU|
 |Algorithm|
 |API|
