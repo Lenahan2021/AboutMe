@@ -7,6 +7,8 @@
 
 My name is Spencer Lenahan and I am in Mr. Banders Computer Science class.
 
+[1]: https://en.wikipedia.org/wiki/Bill_Gates
+
 Hobbies
 -
 
@@ -29,7 +31,7 @@ My nighttime routine includes
 
 _You will face many defeats in life, but never let yourself be defeated._
 
-##Favorite Quotes
+## Favorite Quotes
 
 **You** must be the change **you** wish to see in the world.
 
@@ -38,3 +40,7 @@ _You will face many defeats in life, but never let yourself be defeated._
 [Youtube](youtube.com)
 [Twitch](twitch.tv)
 [I'm being tagged][I have a new home]
+
+## Persons of Interest
+[Bill Gates][1]
+
