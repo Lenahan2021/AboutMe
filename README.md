@@ -4,7 +4,7 @@
 ## Summary
 
 
-My name is Spencer Lenahan and I am in Mr. Bander's Computer Science class. I grew up in Evansville, Indiana and attend North High School where I will be graduating from in May 2023. After high school I plan on attending IUPUI in Fall 2023 majoring in Computer Engineering. I have been programming for a couple years now, but Mr. Bander has sparked my passion for it again. I have a strong desire to learn, and like solving problems and challenges that are thrown my way. I value hands-on learning and doing things that have an impact on other people. 
+My name is Spencer Lenahan and I am in Mr. Bander's Computer Science class. I grew up in Evansville, Indiana and attend North High School where I will be graduating from in May 2023. After high school I plan on attending IUPUI in Fall 2023 majoring in Computer Engineering. I have been programming for a couple years now, and I hope you can check out some of my projects on this page. I have a strong desire to learn, and like solving problems and challenges that are thrown my way. I value hands-on learning and doing things that have an impact on other people. 
 
 
 Hobbies
