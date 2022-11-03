@@ -15,7 +15,7 @@ My hobbies include
 - learning about finance
 + playing tennis
 * working out
-* programming
+- programming
 
 
 ## My Motto
